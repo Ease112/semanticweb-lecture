@@ -1,4 +1,4 @@
-@prefix ex:    <http://example.com/> .
+@prefix ex:    <https://ease112.github.com/semanticweb-lecture/test.ttl#> .
 
 ex:こころ  a       ex:小説 ;
         <http://purl.org/dc/elements/1.1/creator>
